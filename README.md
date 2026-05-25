@@ -16,16 +16,17 @@ to be continued!
       >
     </td>
     <td align="center">
-      <h2>
+      <h1>
         <code> ✦ siren's call ✦ </code>
-      </h2>
-      <sub><h3>&nbsp;&nbsp;&nbsp;&nbsp;
+      </h1>
+      &nbsp;&nbsp;<code> [I also don't know the contents of my Spotify Liked Songs, so everyday is a mystery~] </code>&nbsp;&nbsp;&nbsp;&nbsp;
+      <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
-      &nbsp;&nbsp;&nbsp;&nbsp;</h3></sub>
-      <code>> <b> Overcome </b></code>
+      &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
+      <code>> <b> The Threat Posed by Nuclear Weapons </b></code>
       <br>
       <sub>
-        <code>Aviana</code>
+        <code>The Dillinger Escape Plan</code>
       </sub>
       <h1> </h1>
     </td>
