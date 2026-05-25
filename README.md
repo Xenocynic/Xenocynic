@@ -6,6 +6,32 @@ to be continued!
 
 <div align="center">
 <!-- disc-s -->
+<table>
+  <tr>
+    <td>
+      <img 
+        src="./img/woah_disc.gif" 
+        width="230" 
+        alt="An animated music disc - it sparkles!"
+      >
+    </td>
+    <td align="center">
+      <h2>
+        <code> ✦ siren's call ✦ </code>
+      </h2>
+      <sub><h3>&nbsp;&nbsp;&nbsp;&nbsp;
+        click on that awesome disc for today's music recommendation!
+      &nbsp;&nbsp;&nbsp;&nbsp;</h3></sub>
+      <code>> <b> Now You’ve Really Done It </b></code>
+      <br>
+      <sub>
+        <code>Greg Puciato;Tyler Bates;Gil Sharone</code>
+      </sub>
+      <h1> </h1>
+    </td>
+  </tr>
+</table>
+
 <!-- disc-e -->
 </div>
 
