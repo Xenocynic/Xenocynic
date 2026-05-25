@@ -12,7 +12,7 @@
         <code> ✦ siren's call ✦ </code>
       </h2>
       <sub><h3>&nbsp;&nbsp;&nbsp;&nbsp;
-        click on that awesome disc for today's music recommendation!
+        today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h3></sub>
       <code>> <b> {{Song}} </b></code>
       <br>
