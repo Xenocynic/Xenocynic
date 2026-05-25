@@ -14,10 +14,10 @@
       <sub><h3>&nbsp;&nbsp;&nbsp;&nbsp;
         click on that awesome disc for today's music recommendation!
       &nbsp;&nbsp;&nbsp;&nbsp;</h3></sub>
-      <code>> <b>Beautiful Dude Missile</b></code>
+      <code>> <b> {{Song}} </b></code>
       <br>
       <sub>
-        <code>The Callous Daoboys</code>
+        <code>{{Artist}}</code>
       </sub>
       <h1> </h1>
     </td>
