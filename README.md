@@ -27,7 +27,7 @@ Anyway, here's a list of things I like to do:
 - <b>UI / UX Design</b>
 - <b>Project Management</b> (I <3 creating schedules + pipelines + documentation)
 - <b>Web Development</b> 
-- <b>Games Artificial Intelligence</b> (PCGML, sometimes)
+- <b>Games Artificial Intelligence</b> 
 - <b>Data Analysis</b>
 - <b>Dealing with Databases</b> (sometimes)
 
