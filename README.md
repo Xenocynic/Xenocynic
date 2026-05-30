@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Helpless Corpses Enactment </b></code>
+      <code>> <b> Funeral Derangements </b></code>
       <br>
       <sub>
-        <code>Sleepytime Gorilla Museum</code>
+        <code>Ice Nine Kills</code>
       </sub>
       <h1> </h1>
     </td>
