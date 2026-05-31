@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Funeral Derangements </b></code>
+      <code>> <b> The Marvelous Slut </b></code>
       <br>
       <sub>
-        <code>Ice Nine Kills</code>
+        <code>Every Time I Die</code>
       </sub>
       <h1> </h1>
     </td>
