@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Genki Shank </b></code>
+      <code>> <b> In The Morning And Amazing... </b></code>
       <br>
       <sub>
-        <code>Adebisi Shank</code>
+        <code>Circa Survive</code>
       </sub>
       <h1> </h1>
     </td>
