@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Just Awake </b></code>
+      <code>> <b> Ex-Mørtis </b></code>
       <br>
       <sub>
-        <code>Fear, and Loathing in Las Vegas</code>
+        <code>Ice Nine Kills</code>
       </sub>
       <h1> </h1>
     </td>
