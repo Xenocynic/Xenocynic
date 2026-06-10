@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> If You Can&#039;t Hang </b></code>
+      <code>> <b> Cowards Feed, Cowards Bleed </b></code>
       <br>
       <sub>
-        <code>Sleeping With Sirens</code>
+        <code>Dying Wish</code>
       </sub>
       <h1> </h1>
     </td>
