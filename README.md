@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Chloroform Girl </b></code>
+      <code>> <b> Painkiller </b></code>
       <br>
       <sub>
-        <code>Polkadot Cadaver</code>
+        <code>Judas Priest</code>
       </sub>
       <h1> </h1>
     </td>
