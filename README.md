@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Count To Love </b></code>
+      <code>> <b> Everything You&#039;re Breathing For </b></code>
       <br>
       <sub>
-        <code>BOYNEXTDOOR</code>
+        <code>The Parlor Mob</code>
       </sub>
       <h1> </h1>
     </td>
