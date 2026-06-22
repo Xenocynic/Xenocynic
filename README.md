@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Poison Was The Cure </b></code>
+      <code>> <b> The Difference Between Medicine And Poison Is In The Dose </b></code>
       <br>
       <sub>
-        <code>Megadeth</code>
+        <code>Circa Survive</code>
       </sub>
       <h1> </h1>
     </td>
