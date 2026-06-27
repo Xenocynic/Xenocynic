@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Gallons Of Rubbing Alcohol Flow Through The Strip </b></code>
+      <code>> <b> Misery Loves My Company </b></code>
       <br>
       <sub>
-        <code>Nirvana</code>
+        <code>Three Days Grace</code>
       </sub>
       <h1> </h1>
     </td>
