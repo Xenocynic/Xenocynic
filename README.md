@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Misery Loves My Company </b></code>
+      <code>> <b> You don&#039;t even know who I am </b></code>
       <br>
       <sub>
-        <code>Three Days Grace</code>
+        <code>underscores</code>
       </sub>
       <h1> </h1>
     </td>
