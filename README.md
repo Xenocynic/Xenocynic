@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Barracuda </b></code>
+      <code>> <b> And In the Right To Make Mistakes, We May Lose And Start Again... </b></code>
       <br>
       <sub>
-        <code>Heart</code>
+        <code>War From A Harlots Mouth</code>
       </sub>
       <h1> </h1>
     </td>
