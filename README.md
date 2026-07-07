@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Cheap Ludes </b></code>
+      <code>> <b> I Just Wanna Run </b></code>
       <br>
       <sub>
-        <code>Every Time I Die</code>
+        <code>The Downtown Fiction</code>
       </sub>
       <h1> </h1>
     </td>
