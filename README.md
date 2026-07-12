@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Scattered Sprites </b></code>
+      <code>> <b> A Call </b></code>
       <br>
       <sub>
-        <code>Car Bomb</code>
+        <code>EDEN</code>
       </sub>
       <h1> </h1>
     </td>
