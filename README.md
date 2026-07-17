@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme. </b></code>
+      <code>> <b> COLD </b></code>
       <br>
       <sub>
-        <code>Giraffes? Giraffes!</code>
+        <code>CRASHFACE</code>
       </sub>
       <h1> </h1>
     </td>
