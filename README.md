@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Hip To Be Square </b></code>
+      <code>> <b> Dicker&#039;s Done </b></code>
       <br>
       <sub>
-        <code>Huey Lewis &amp; The News</code>
+        <code>Tallah</code>
       </sub>
       <h1> </h1>
     </td>
