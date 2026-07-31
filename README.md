@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> The High Road </b></code>
+      <code>> <b> Duality </b></code>
       <br>
       <sub>
-        <code>Three Days Grace</code>
+        <code>Slipknot</code>
       </sub>
       <h1> </h1>
     </td>
