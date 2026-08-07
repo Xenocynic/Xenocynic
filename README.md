@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Fake Dinosaur Bones </b></code>
+      <code>> <b> The Audacity (feat. Anomalie) </b></code>
       <br>
       <sub>
-        <code>The Callous Daoboys</code>
+        <code>Polyphia;Anomalie</code>
       </sub>
       <h1> </h1>
     </td>
