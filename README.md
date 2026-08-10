@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Do You Need Me to Remind You? - live </b></code>
+      <code>> <b> Swallowing the Rabbit Whole </b></code>
       <br>
       <sub>
-        <code>Greg Puciato</code>
+        <code>Code Orange</code>
       </sub>
       <h1> </h1>
     </td>
