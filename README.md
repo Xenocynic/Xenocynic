@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Swallowing the Rabbit Whole </b></code>
+      <code>> <b> 4th Grade Dropout </b></code>
       <br>
       <sub>
-        <code>Code Orange</code>
+        <code>The Dillinger Escape Plan</code>
       </sub>
       <h1> </h1>
     </td>
