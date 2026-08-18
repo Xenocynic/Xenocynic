@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Widower </b></code>
+      <code>> <b> Melodrama Between Two Entirely Bored Individuals </b></code>
       <br>
       <sub>
-        <code>The Dillinger Escape Plan</code>
+        <code>SeeYouSpaceCowboy...</code>
       </sub>
       <h1> </h1>
     </td>
