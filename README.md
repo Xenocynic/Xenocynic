@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> One Twenty Two </b></code>
+      <code>> <b> Games for Days </b></code>
       <br>
       <sub>
-        <code>Botch</code>
+        <code>Julian Plenti</code>
       </sub>
       <h1> </h1>
     </td>
