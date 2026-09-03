@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> CH 375 268 277 ARS </b></code>
+      <code>> <b> Crashland </b></code>
       <br>
       <sub>
-        <code>The Dillinger Escape Plan</code>
+        <code>Arcturus</code>
       </sub>
       <h1> </h1>
     </td>
