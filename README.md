@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Lay Me to Rest </b></code>
+      <code>> <b> Hand Me My Shovel, I&#039;m Going In! </b></code>
       <br>
       <sub>
-        <code>zebrahead</code>
+        <code>Will Wood and the Tapeworms</code>
       </sub>
       <h1> </h1>
     </td>
