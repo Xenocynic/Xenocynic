@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Panopticon </b></code>
+      <code>> <b> Mr. Frustration Man </b></code>
       <br>
       <sub>
-        <code>thoughtcrimes</code>
+        <code>Peter McConnell</code>
       </sub>
       <h1> </h1>
     </td>
