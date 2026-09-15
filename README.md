@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> 真実は告げる 2001 </b></code>
+      <code>> <b> Exit Music (For A Film) </b></code>
       <br>
       <sub>
-        <code>Masakazu Sugimori</code>
+        <code>Radiohead</code>
       </sub>
       <h1> </h1>
     </td>
