@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Keep Me in the Dark </b></code>
+      <code>> <b> Cotard&#039;s Solution (Anatta, Dukkha, Anicca) </b></code>
       <br>
       <sub>
-        <code>Fiends</code>
+        <code>Will Wood and the Tapeworms</code>
       </sub>
       <h1> </h1>
     </td>
