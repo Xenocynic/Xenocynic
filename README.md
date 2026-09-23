@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Hell Yeah </b></code>
+      <code>> <b> Transitions from Persona to Object </b></code>
       <br>
       <sub>
-        <code>Rev Theory</code>
+        <code>Botch</code>
       </sub>
       <h1> </h1>
     </td>
