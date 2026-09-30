@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Lost In The Static </b></code>
+      <code>> <b> Ranti Nasha </b></code>
       <br>
       <sub>
-        <code>After The Burial</code>
+        <code>Bhayanak Maut</code>
       </sub>
       <h1> </h1>
     </td>
