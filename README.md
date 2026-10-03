@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> You, Staring at Me, Staring at You </b></code>
+      <code>> <b> Succubus </b></code>
       <br>
       <sub>
-        <code>Greg Puciato</code>
+        <code>Demob Happy</code>
       </sub>
       <h1> </h1>
     </td>
