@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Face:Face </b></code>
+      <code>> <b> Dialectic Chaos </b></code>
       <br>
       <sub>
-        <code>Norma Jean</code>
+        <code>Megadeth</code>
       </sub>
       <h1> </h1>
     </td>
