@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Lurch </b></code>
+      <code>> <b> Atlas Novus </b></code>
       <br>
       <sub>
-        <code>The Dillinger Escape Plan</code>
+        <code>Scale The Summit</code>
       </sub>
       <h1> </h1>
     </td>
