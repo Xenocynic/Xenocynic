@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Waco Jesus </b></code>
+      <code>> <b> Dirty Deeds Done Dirt Cheap </b></code>
       <br>
       <sub>
-        <code>The Callous Daoboys</code>
+        <code>Revel 9</code>
       </sub>
       <h1> </h1>
     </td>
