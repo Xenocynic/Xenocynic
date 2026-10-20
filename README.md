@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> The Hollow </b></code>
+      <code>> <b> nakano kill you </b></code>
       <br>
       <sub>
-        <code>A Perfect Circle</code>
+        <code>Ling tosite sigure</code>
       </sub>
       <h1> </h1>
     </td>
