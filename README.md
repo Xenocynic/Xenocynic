@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Lamento della ninfa, SV 163: Amor, amor </b></code>
+      <code>> <b> Selenium Forest </b></code>
       <br>
       <sub>
-        <code>Claudio Monteverdi;Simone Kermes;La Magnifica Comunità;Enrico Casazza</code>
+        <code>Plini</code>
       </sub>
       <h1> </h1>
     </td>
