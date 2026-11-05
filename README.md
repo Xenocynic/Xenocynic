@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Violence in Fluid Triceratops </b></code>
+      <code>> <b> (Coffee&#039;s For Closers) </b></code>
       <br>
       <sub>
-        <code>Arsonists Get All The Girls</code>
+        <code>Fall Out Boy</code>
       </sub>
       <h1> </h1>
     </td>
