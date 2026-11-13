@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Banquet </b></code>
+      <code>> <b> Will I Arrive </b></code>
       <br>
       <sub>
-        <code>Bloc Party</code>
+        <code>Katatonia</code>
       </sub>
       <h1> </h1>
     </td>
