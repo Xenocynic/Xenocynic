@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> By the Sword (feat. Andrew Stockdale or Wolfmother) </b></code>
+      <code>> <b> Firstborn (Ya&#039;aburnee) - Instrumental </b></code>
       <br>
       <sub>
-        <code>Slash;Andrew Stockdale;Andrew Stockdale of Wolfmother</code>
+        <code>Silent Planet</code>
       </sub>
       <h1> </h1>
     </td>
