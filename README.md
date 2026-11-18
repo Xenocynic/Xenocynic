@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Time And Time Again </b></code>
+      <code>> <b> The Nithing </b></code>
       <br>
       <sub>
-        <code>Chronic Future</code>
+        <code>Eye Of Horus</code>
       </sub>
       <h1> </h1>
     </td>
