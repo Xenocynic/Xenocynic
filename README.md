@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Good Neighbor </b></code>
+      <code>> <b> I Didn&#039;t Want To Join Your Stupid Cult Anyway </b></code>
       <br>
       <sub>
-        <code>The Dillinger Escape Plan</code>
+        <code>Every Time I Die</code>
       </sub>
       <h1> </h1>
     </td>
