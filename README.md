@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> 甘美な無法 </b></code>
+      <code>> <b> Collapse in the Key of Fireworks </b></code>
       <br>
       <sub>
-        <code>理芽</code>
+        <code>Johnny Booth</code>
       </sub>
       <h1> </h1>
     </td>
