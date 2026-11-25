@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Piano Sonata No. 15 in F Major, K. 533: III. Rondo </b></code>
+      <code>> <b> Constant Fear </b></code>
       <br>
       <sub>
-        <code>Wolfgang Amadeus Mozart;William Youn</code>
+        <code>Bohren &amp; Der Club Of Gore</code>
       </sub>
       <h1> </h1>
     </td>
