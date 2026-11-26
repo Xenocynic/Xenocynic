@@ -70,10 +70,10 @@ Anyway, here's a list of things I like to do:
       <sub><h2>&nbsp;&nbsp;
         today's music recommendation (updates everyday!)
       &nbsp;&nbsp;&nbsp;&nbsp;</h2></sub>
-      <code>> <b> Constant Fear </b></code>
+      <code>> <b> Take Your Pick (Feat. Corpsegrinder) </b></code>
       <br>
       <sub>
-        <code>Bohren &amp; Der Club Of Gore</code>
+        <code>Ice Nine Kills;Corpsegrinder</code>
       </sub>
       <h1> </h1>
     </td>
